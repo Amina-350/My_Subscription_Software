@@ -1,0 +1,38 @@
+Admin features:
+
+Student :
+
+admit new students in the running session.
+Upload a csv file to admit bulk students.
+view all students of a class.
+view profile, marksheet, payements and parents info of each student, filtered by sections.
+edit and delete students from a class.
+promote students to next session or class.
+add, edit and delete Alumini.
+
+Manage Staff:
+
+Admin can view, add, edit and delete Teacher.
+Admin can view, add, edit and delete Librarian.
+Admin can view, add, edit and delete Accountant.
+
+Manage Parents:
+
+Admin can view, add, edit and delete Parent.
+
+
+Manage Class:
+
+Admin can view, add, edit and delete classes.
+Admin can view, add, edit and delete sections of the classes.
+Admin can view, add, delete and download academic syllabus of each class.
+
+
+
+
+
+
+
+
+
+

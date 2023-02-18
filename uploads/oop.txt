@@ -1,0 +1,15 @@
+Class
+class properties to use within a class use this.
+to access a class property we create class object.
+access identifiers are public private protected
+class has variables/structures and methods/behaviour 
+e:g
+class AC{
+public $model= 'xyz';
+public $speed = 16;
+
+function speedUp(){
+
+}
+
+}
